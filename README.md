@@ -24,6 +24,6 @@ This is a basic starting point as I begin to understand the inner workings of NL
     - After the bot has identified the intent, it will generate a response based on the list of answers (responses).
 
 ## Example
-![Alt text](assets/your-image-name.png)
+![Alt text](assets/example_image.JPG)
 
 
